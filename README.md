@@ -1,4 +1,5 @@
 # Command Plus v2.9f0c
 ## 说明
 Command Plus 已经更新到 2.0 版本，如想了解最新更新，请加QQ：2 3 9 4 5 7 9 9 9 2
-或者访问 https://union.my.canvasite.cn/command-2
+---
+这是最后的版本，我们将于2024年1月1日停止更新Command++2.0，源代码仅供学习 —— 来自2023/10/15的编辑
